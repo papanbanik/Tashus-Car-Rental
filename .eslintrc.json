@@ -1,0 +1,7 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "react-hooks/exhaustive-deps": "off", // Disable useEffect dependency warning
+    "react/display-name": "off" // Turn off the react/display-name rule
+  }
+}

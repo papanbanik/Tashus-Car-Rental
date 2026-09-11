@@ -1,0 +1,12 @@
+h2 {
+  font-size: 23px !important;
+}
+@media (max-width: 670px) {
+  h2 {
+    font-size: 1.16rem !important;
+  }
+  p,
+  li {
+    font-size: 14px !important;
+  }
+}

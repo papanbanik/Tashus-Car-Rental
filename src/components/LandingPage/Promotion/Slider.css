@@ -1,0 +1,18 @@
+.slick-prev:before,
+.slick-next:before {
+  color: #ab94af !important;
+}
+.slick-dots {
+  bottom: -25px !important;
+}
+@media (max-width: 600px) {
+  .slick-dots {
+    bottom: -50px !important;
+  }
+  .slick-prev {
+    margin-left: 4px !important;
+  }
+  .slick-next {
+    margin-right: 4px !important;
+  }
+}

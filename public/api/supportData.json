@@ -1,0 +1,190 @@
+{
+  "support-page-data": {
+    "title": "We’re here to support",
+    "cards-data": [
+      {
+        "title": "How to Join",
+        "icon": "Group",
+        "route": "/support/account",
+        "description": "Check the eligibility criteria for renting cars on our platform, and learn more about how to join."
+      },
+      {
+        "title": "Booking a Car",
+        "icon": "DirectionsCar",
+        "route": "/support/account",
+        "description": "Finding the perfect car for your trip, how a trip works, booking a car, cancelling or editing your booking and pricing information."
+      },
+      {
+        "title": "Taking a Trip",
+        "icon": "DirectionsCar",
+        "route": "/support/account",
+        "description": "Instructions for finding the car, getting the keys, returning the car, what to do if you have an accident or another issue, and payment information."
+      },
+      {
+        "title": "How to Rent Out Your Car",
+        "icon": "Assignment",
+        "route": "/support/account",
+        "description": "Find out if renting your car out is right for you, learn how it works and how much you can earn."
+      },
+      {
+        "title": "Managing Your Car",
+        "icon": "Build",
+        "route": "/support/account",
+        "description": "Information for current owners: managing your car's profile and calendar, maximizing your income, invoices and payments, and dealing with damage, mess and other issues."
+      },
+      {
+        "title": "Damage and Repairs",
+        "icon": "Build",
+        "route": "/support/account",
+        "description": "How damage and loss cover works and what happens in the case of damage and repairs."
+      },
+      {
+        "title": "Fuel, Tolls, and Fines",
+        "icon": "LocalGasStation",
+        "route": "/support/account",
+        "description": "How fuel works for owners and borrowers, how tolls get charged to the right person, and what to do with parking, speeding or traffic fines."
+      },
+      {
+        "title": "Your Account",
+        "icon": "AccountCircle",
+        "route": "/support/account",
+        "description": "Updating your details, getting help with payments and security tips."
+      },
+      {
+        "title": "Our Community",
+        "icon": "People",
+        "route": "/support/account",
+        "description": "Inviting friends to join, our review system, rules that keep our community running smoothly, and the new features we've released for our members."
+      }
+    ]
+  },
+
+  "account-support": [
+    {
+      "name": "Managing Your Details",
+      "cards": [
+        {
+          "name": "Updating your contact details or name",
+          "subsections": [
+            {
+              "name": "Updating your contact details",
+              "content": [
+                {
+                  "type": "heading",
+                  "text": "Email address"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "You'll need to call us and let us know your new email."
+                },
+
+                {
+                  "type": "heading",
+                  "text": "Phone number or home address"
+                },
+                {
+                  "type": "bullet-list",
+                  "points": [
+                    "Go to your contact details in the website or app",
+                    "Enter your new phone number or home address",
+                    "If you're updating your phone number, you'll need to verify your new phone number by entering a code we'll send you."
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "text": "Updating your car's parking address"
+                },
+                {
+                  "type": "paragraph",
+                  "text": "If you're an owner and moving where your car is parked, see these instructions for updating your car's parking address."
+                }
+              ]
+            },
+            {
+              "name": "Updating your name or preferred name",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "text": "If you have a preferred first name you'd like displayed on the website, you can update it on the website (not app):"
+                },
+
+                {
+                  "type": "number-list",
+                  "numbers": [
+                    "Log in to the website (not app)",
+                    "Select on the menu in the top right-hand corner and choose Account",
+                    "Select on your name under your profile photo",
+                    "Type your preferred name into the box",
+                    "Click Save"
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "text": "Your preferred name will display on your profile, on any reviews you leave for other members or cars, and on your car's profile."
+                },
+                {
+                  "type": "paragraph",
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Updating your credit card, debit card, or bank details"
+        },
+        {
+          "name": "Updating your member profile photo"
+        },
+        {
+          "name": "Viewing your borrower profile"
+        }
+      ]
+    },
+    {
+      "name": "Invoices And Payments",
+      "cards": [
+        {
+          "name": "Withdrawing refunds from your member account"
+        },
+        {
+          "name": "How we calculate how far you drive"
+        },
+        {
+          "name": "How you pay for the distance you drive"
+        },
+        {
+          "name": "Waiting for a refund or payment from us"
+        }
+      ]
+    },
+    {
+      "name": "Notifications",
+      "cards": [
+        {
+          "name": "Managing your notification preferences"
+        },
+        {
+          "name": "Troubleshooting push and SMS notifications"
+        },
+        {
+          "name": "Inbox: see your notifications and get help in the app"
+        }
+      ]
+    },
+    {
+      "name": "Security",
+      "cards": [
+        {
+          "name": "Verifying your phone number"
+        },
+        {
+          "name": "Keeping your account secure"
+        },
+        {
+          "name": "What to do if your account is restricted"
+        }
+      ]
+    }
+  ]
+}

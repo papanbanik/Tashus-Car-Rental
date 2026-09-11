@@ -1,0 +1,542 @@
+[
+  {
+    "topicId": "60abcfed1234567890abcdef",
+    "title": "Getting Started",
+    "subTopics": [
+      {
+        "subTopicId": "60abcfed9876543210fedcba",
+        "subTopicTitle": "Creating an Account",
+        "subTopicSortOrder": 1,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfedabcdef1234567890",
+            "title": "Logging In",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba0987654321",
+            "title": "Resetting Password",
+            "sortOrder": 2
+          }
+        ]
+      },
+      {
+        "subTopicId": "60abcfedabcdef0987654321",
+        "subTopicTitle": "Navigating the Platform",
+        "subTopicSortOrder": 2,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfed1234567890fedcba",
+            "title": "Finding Services",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba0987654321",
+            "title": "Using Search",
+            "sortOrder": 2
+          }
+        ]
+      }
+    ],
+    "relatedTopics": [
+      {
+        "topicId": "60abcfedfedcba0987654321",
+        "title": "Support and Contact",
+        "sortOrder": 1
+      },
+      {
+        "topicId": "60abcfed1234567890fedcba",
+        "title": "FAQs",
+        "sortOrder": 2
+      }
+    ],
+    "imageUrl": "https://example.com/image.jpg",
+    "sortOrder": 1
+  },
+  {
+    "topicId": "60abcfed234567890abcdef1",
+    "title": "Account Management",
+    "subTopics": [
+      {
+        "subTopicId": "60abcfedfedcba0987654322",
+        "subTopicTitle": "Profile Settings",
+        "subTopicSortOrder": 1,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfedabcdef1234567891",
+            "title": "Updating Your Profile",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba0987654323",
+            "title": "Privacy Settings",
+            "sortOrder": 2
+          }
+        ]
+      },
+      {
+        "subTopicId": "60abcfedabcdef0987654322",
+        "subTopicTitle": "Security and Privacy",
+        "subTopicSortOrder": 2,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfed1234567890fedcba2",
+            "title": "Password Security",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba0987654324",
+            "title": "Two-Factor Authentication",
+            "sortOrder": 2
+          }
+        ]
+      }
+    ],
+    "relatedTopics": [
+      {
+        "topicId": "60abcfedfedcba0987654325",
+        "title": "Billing and Payments",
+        "sortOrder": 1
+      },
+      {
+        "topicId": "60abcfed1234567890fedcba3",
+        "title": "Account Help",
+        "sortOrder": 2
+      }
+    ],
+    "imageUrl": "https://example.com/image2.jpg",
+    "sortOrder": 2
+  },
+  {
+    "topicId": "60abcfed34567890abcdef2",
+    "title": "Payment Options",
+    "subTopics": [
+      {
+        "subTopicId": "60abcfedfedcba0987654325",
+        "subTopicTitle": "Payment Methods",
+        "subTopicSortOrder": 1,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfedabcdef1234567892",
+            "title": "Adding a Credit Card",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba0987654326",
+            "title": "Using Digital Wallets",
+            "sortOrder": 2
+          }
+        ]
+      },
+      {
+        "subTopicId": "60abcfedabcdef0987654323",
+        "subTopicTitle": "Billing and Invoices",
+        "subTopicSortOrder": 2,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfed1234567890fedcba4",
+            "title": "Understanding Your Bill",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba0987654327",
+            "title": "Payment History",
+            "sortOrder": 2
+          }
+        ]
+      }
+    ],
+    "relatedTopics": [
+      {
+        "topicId": "60abcfedfedcba0987654328",
+        "title": "Refunds and Disputes",
+        "sortOrder": 1
+      },
+      {
+        "topicId": "60abcfed1234567890fedcba5",
+        "title": "Payment Support",
+        "sortOrder": 2
+      }
+    ],
+    "imageUrl": "https://example.com/image3.jpg",
+    "sortOrder": 3
+  },
+  {
+    "topicId": "60abcfed4567890abcdef3",
+    "title": "Booking a Ride",
+    "subTopics": [
+      {
+        "subTopicId": "60abcfedfedcba0987654329",
+        "subTopicTitle": "Selecting a Car",
+        "subTopicSortOrder": 1,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfedabcdef1234567893",
+            "title": "Car Categories",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543210",
+            "title": "Car Features",
+            "sortOrder": 2
+          }
+        ]
+      },
+      {
+        "subTopicId": "60abcfedabcdef0987654324",
+        "subTopicTitle": "Ride Options",
+        "subTopicSortOrder": 2,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfed1234567890fedcba6",
+            "title": "Scheduling a Ride",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543211",
+            "title": "Ride Pricing",
+            "sortOrder": 2
+          }
+        ]
+      }
+    ],
+    "relatedTopics": [
+      {
+        "topicId": "60abcfedfedcba09876543212",
+        "title": "Ride Safety",
+        "sortOrder": 1
+      },
+      {
+        "topicId": "60abcfed1234567890fedcba7",
+        "title": "Ride Support",
+        "sortOrder": 2
+      }
+    ],
+    "imageUrl": "https://example.com/image4.jpg",
+    "sortOrder": 4
+  },
+  {
+    "topicId": "60abcfed567890abcdef4",
+    "title": "Car Selection",
+    "subTopics": [
+      {
+        "subTopicId": "60abcfedfedcba09876543213",
+        "subTopicTitle": "Car Categories",
+        "subTopicSortOrder": 1,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfedabcdef1234567894",
+            "title": "Choosing the Right Car",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543214",
+            "title": "Car Availability",
+            "sortOrder": 2
+          }
+        ]
+      },
+      {
+        "subTopicId": "60abcfedabcdef0987654325",
+        "subTopicTitle": "Car Features",
+        "subTopicSortOrder": 2,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfed1234567890fedcba8",
+            "title": "Upgrading Your Car",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543215",
+            "title": "Car Amenities",
+            "sortOrder": 2
+          }
+        ]
+      }
+    ],
+    "relatedTopics": [
+      {
+        "topicId": "60abcfedfedcba09876543216",
+        "title": "Car Maintenance",
+        "sortOrder": 1
+      },
+      {
+        "topicId": "60abcfed1234567890fedcba9",
+        "title": "Car Assistance",
+        "sortOrder": 2
+      }
+    ],
+    "imageUrl": "https://example.com/image5.jpg",
+    "sortOrder": 5
+  },
+  {
+    "topicId": "60abcfed6789012345abcdef5",
+    "title": "Safety Guidelines",
+    "subTopics": [
+      {
+        "subTopicId": "60abcfedfedcba09876543217",
+        "subTopicTitle": "General Safety Tips",
+        "subTopicSortOrder": 1,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfedabcdef1234567895",
+            "title": "Safe Riding Practices",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543218",
+            "title": "Emergency Procedures",
+            "sortOrder": 2
+          }
+        ]
+      },
+      {
+        "subTopicId": "60abcfedabcdef0987654326",
+        "subTopicTitle": "Security Measures",
+        "subTopicSortOrder": 2,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfed1234567890fedcba10",
+            "title": "Account Security",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543219",
+            "title": "Data Protection",
+            "sortOrder": 2
+          }
+        ]
+      }
+    ],
+    "relatedTopics": [
+      {
+        "topicId": "60abcfedfedcba09876543220",
+        "title": "Safety Support",
+        "sortOrder": 1
+      },
+      {
+        "topicId": "60abcfed1234567890fedcba11",
+        "title": "Safety FAQs",
+        "sortOrder": 2
+      }
+    ],
+    "imageUrl": "https://example.com/image6.jpg",
+    "sortOrder": 6
+  },
+  {
+    "topicId": "60abcfed7890123456abcdef6",
+    "title": "Cancellation Policy",
+    "subTopics": [
+      {
+        "subTopicId": "60abcfedfedcba09876543221",
+        "subTopicTitle": "Cancelling a Ride",
+        "subTopicSortOrder": 1,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfedabcdef1234567896",
+            "title": "Cancellation Charges",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543222",
+            "title": "Refund Process",
+            "sortOrder": 2
+          }
+        ]
+      },
+      {
+        "subTopicId": "60abcfedabcdef0987654327",
+        "subTopicTitle": "Policy Details",
+        "subTopicSortOrder": 2,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfed1234567890fedcba12",
+            "title": "Understanding our Policy",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543223",
+            "title": "Policy Support",
+            "sortOrder": 2
+          }
+        ]
+      }
+    ],
+    "relatedTopics": [
+      {
+        "topicId": "60abcfedfedcba09876543224",
+        "title": "Policy Updates",
+        "sortOrder": 1
+      },
+      {
+        "topicId": "60abcfed1234567890fedcba13",
+        "title": "Policy FAQs",
+        "sortOrder": 2
+      }
+    ],
+    "imageUrl": "https://example.com/image7.jpg",
+    "sortOrder": 7
+  },
+  {
+    "topicId": "60abcfed8901234567abcdef7",
+    "title": "Feedback and Ratings",
+    "subTopics": [
+      {
+        "subTopicId": "60abcfedfedcba09876543225",
+        "subTopicTitle": "Providing Feedback",
+        "subTopicSortOrder": 1,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfedabcdef1234567897",
+            "title": "Rating System",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543226",
+            "title": "Review Guidelines",
+            "sortOrder": 2
+          }
+        ]
+      },
+      {
+        "subTopicId": "60abcfedabcdef0987654328",
+        "subTopicTitle": "Feedback Handling",
+        "subTopicSortOrder": 2,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfed1234567890fedcba14",
+            "title": "Feedback Resolution",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543227",
+            "title": "Feedback Support",
+            "sortOrder": 2
+          }
+        ]
+      }
+    ],
+    "relatedTopics": [
+      {
+        "topicId": "60abcfedfedcba09876543228",
+        "title": "Feedback Trends",
+        "sortOrder": 1
+      },
+      {
+        "topicId": "60abcfed1234567890fedcba15",
+        "title": "Feedback FAQs",
+        "sortOrder": 2
+      }
+    ],
+    "imageUrl": "https://example.com/image8.jpg",
+    "sortOrder": 8
+  },
+  {
+    "topicId": "60abcfed9012345678abcdef8",
+    "title": "Terms of Service",
+    "subTopics": [
+      {
+        "subTopicId": "60abcfedfedcba09876543229",
+        "subTopicTitle": "Acceptance of Terms",
+        "subTopicSortOrder": 1,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfedabcdef1234567898",
+            "title": "User Agreement",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543230",
+            "title": "Privacy Policy",
+            "sortOrder": 2
+          }
+        ]
+      },
+      {
+        "subTopicId": "60abcfedabcdef0987654329",
+        "subTopicTitle": "Policy Details",
+        "subTopicSortOrder": 2,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfed1234567890fedcba16",
+            "title": "Data Usage",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543231",
+            "title": "User Rights",
+            "sortOrder": 2
+          }
+        ]
+      }
+    ],
+    "relatedTopics": [
+      {
+        "topicId": "60abcfedfedcba09876543232",
+        "title": "Policy Updates",
+        "sortOrder": 1
+      },
+      {
+        "topicId": "60abcfed1234567890fedcba17",
+        "title": "Policy FAQs",
+        "sortOrder": 2
+      }
+    ],
+    "imageUrl": "https://example.com/image9.jpg",
+    "sortOrder": 9
+  },
+  {
+    "topicId": "60abcfed9123456789abcdef9",
+    "title": "Contact Us",
+    "subTopics": [
+      {
+        "subTopicId": "60abcfedfedcba09876543233",
+        "subTopicTitle": "General Inquiries",
+        "subTopicSortOrder": 1,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfedabcdef1234567899",
+            "title": "Contact Information",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543234",
+            "title": "Support Channels",
+            "sortOrder": 2
+          }
+        ]
+      },
+      {
+        "subTopicId": "60abcfedabcdef09876543210",
+        "subTopicTitle": "Feedback and Complaints",
+        "subTopicSortOrder": 2,
+        "relatedTopics": [
+          {
+            "topicId": "60abcfed1234567890fedcba18",
+            "title": "Resolving Issues",
+            "sortOrder": 1
+          },
+          {
+            "topicId": "60abcfedfedcba09876543235",
+            "title": "Customer Support",
+            "sortOrder": 2
+          }
+        ]
+      }
+    ],
+    "relatedTopics": [
+      {
+        "topicId": "60abcfedfedcba09876543236",
+        "title": "Feedback and Suggestions",
+        "sortOrder": 1
+      },
+      {
+        "topicId": "60abcfed1234567890fedcba19",
+        "title": "Contact FAQs",
+        "sortOrder": 2
+      }
+    ],
+    "imageUrl": "https://example.com/image10.jpg",
+    "sortOrder": 10
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "articleId": "60abcfedabcdef123456780",
+    "title": "Getting Started with Our Service",
+    "summery": "Learn how to use our service effectively.",
+    "content": "This article provides a step-by-step guide on getting started with our service.",
+    "linkPath": "/help/article/60abcfedabcdef123456780",
+    "fullLinkPath": "https://example.com/help/article/60abcfedabcdef123456780",
+    "topics": [
+      {
+        "topicId": "60abcfedfedcba0987654321",
+        "topicTitle": "Getting Started"
+      }
+    ],
+    "relatedArticles": [
+      {
+        "articleId": "60abcfedfedcba0987654322",
+        "title": "Navigating Our Website",
+        "summery": "Learn how to navigate our website with ease.",
+        "linkPath": "/help/article/60abcfedfedcba0987654322"
+      }
+    ],
+    "roles": ["guest", "partner"],
+    "type": "how-to",
+    "lastTopicId": "60abcfedfedcba0987654321"
+  },
+  {
+    "articleId": "60abcfedabcdef123456781",
+    "title": "Understanding Our Policies",
+    "summery": "Learn about our terms of service and privacy policy.",
+    "content": "This article explains our terms of service and privacy policy in detail.",
+    "linkPath": "/help/article/60abcfedabcdef123456781",
+    "fullLinkPath": "https://example.com/help/article/60abcfedabcdef123456781",
+    "topics": [
+      {
+        "topicId": "60abcfedfedcba0987654322",
+        "topicTitle": "Policies"
+      }
+    ],
+    "relatedArticles": [
+      {
+        "articleId": "60abcfedfedcba0987654323",
+        "title": "Privacy Policy Overview",
+        "summery": "An overview of our privacy policy.",
+        "linkPath": "/help/article/60abcfedfedcba0987654323"
+      }
+    ],
+    "roles": ["guest"],
+    "type": "rules",
+    "lastTopicId": "60abcfedfedcba0987654322"
+  },
+  {
+    "articleId": "60abcfedabcdef123456782",
+    "title": "Using Our Mobile App",
+    "summery": "Get the most out of our mobile app.",
+    "content": "This article provides tips and tricks for using our mobile app efficiently.",
+    "linkPath": "/help/article/60abcfedabcdef123456782",
+    "fullLinkPath": "https://example.com/help/article/60abcfedabcdef123456782",
+    "topics": [
+      {
+        "topicId": "60abcfedfedcba0987654323",
+        "topicTitle": "Mobile App"
+      }
+    ],
+    "relatedArticles": [],
+    "roles": ["guest", "partner"],
+    "type": "how-to",
+    "lastTopicId": "60abcfedfedcba0987654323"
+  },
+  {
+    "articleId": "60abcfedabcdef123456783",
+    "title": "Account Security Guidelines",
+    "summery": "Protect your account from unauthorized access.",
+    "content": "Learn how to enhance the security of your account.",
+    "linkPath": "/help/article/60abcfedabcdef123456783",
+    "fullLinkPath": "https://example.com/help/article/60abcfedabcdef123456783",
+    "topics": [
+      {
+        "topicId": "60abcfedfedcba0987654324",
+        "topicTitle": "Account Security"
+      }
+    ],
+    "relatedArticles": [],
+    "roles": ["guest", "partner"],
+    "type": "rules",
+    "lastTopicId": "60abcfedfedcba0987654324"
+  },
+  {
+    "articleId": "60abcfedabcdef123456784",
+    "title": "Contacting Customer Support",
+    "summery": "How to reach out to our customer support team.",
+    "content": "This article explains how to contact our customer support team for assistance.",
+    "linkPath": "/help/article/60abcfedabcdef123456784",
+    "fullLinkPath": "https://example.com/help/article/60abcfedabcdef123456784",
+    "topics": [
+      {
+        "topicId": "60abcfedfedcba0987654325",
+        "topicTitle": "Customer Support"
+      }
+    ],
+    "relatedArticles": [],
+    "roles": ["guest", "partner"],
+    "type": "how-to",
+    "lastTopicId": "60abcfedfedcba0987654325"
+  },
+  {
+    "articleId": "60abcfedabcdef123456785",
+    "title": "Understanding Our Pricing",
+    "summery": "Learn about our pricing structure.",
+    "content": "This article provides details on how our pricing works.",
+    "linkPath": "/help/article/60abcfedabcdef123456785",
+    "fullLinkPath": "https://example.com/help/article/60abcfedabcdef123456785",
+    "topics": [
+      {
+        "topicId": "60abcfedfedcba0987654326",
+        "topicTitle": "Pricing"
+      }
+    ],
+    "relatedArticles": [],
+    "roles": ["guest", "partner"],
+    "type": "rules",
+    "lastTopicId": "60abcfedfedcba0987654326"
+  },
+  {
+    "articleId": "60abcfedabcdef123456786",
+    "title": "Ride Safety Tips",
+    "summery": "Stay safe while using our service.",
+    "content": "This article provides safety tips for your rides with us.",
+    "linkPath": "/help/article/60abcfedabcdef123456786",
+    "fullLinkPath": "https://example.com/help/article/60abcfedabcdef123456786",
+    "topics": [
+      {
+        "topicId": "60abcfedfedcba0987654327",
+        "topicTitle": "Ride Safety"
+      }
+    ],
+    "relatedArticles": [],
+    "roles": ["guest", "partner"],
+    "type": "how-to",
+    "lastTopicId": "60abcfedfedcba0987654327"
+  },
+  {
+    "articleId": "60abcfedabcdef123456787",
+    "title": "Refund Process Guidelines",
+    "summery": "How refunds work on our platform.",
+    "content": "This article explains the process of requesting a refund.",
+    "linkPath": "/help/article/60abcfedabcdef123456787",
+    "fullLinkPath": "https://example.com/help/article/60abcfedabcdef123456787",
+    "topics": [
+      {
+        "topicId": "60abcfedfedcba0987654328",
+        "topicTitle": "Refunds"
+      }
+    ],
+    "relatedArticles": [],
+    "roles": ["guest", "partner"],
+    "type": "rules",
+    "lastTopicId": "60abcfedfedcba0987654328"
+  },
+  {
+    "articleId": "60abcfedabcdef123456788",
+    "title": "Booking Tips and Tricks",
+    "summery": "Get the most out of your bookings.",
+    "content": "This article provides tips and tricks for making bookings on our platform.",
+    "linkPath": "/help/article/60abcfedabcdef123456788",
+    "fullLinkPath": "https://example.com/help/article/60abcfedabcdef123456788",
+    "topics": [
+      {
+        "topicId": "60abcfedfedcba0987654329",
+        "topicTitle": "Booking Tips"
+      }
+    ],
+    "relatedArticles": [],
+    "roles": ["guest", "partner"],
+    "type": "how-to",
+    "lastTopicId": "60abcfedfedcba0987654329"
+  },
+  {
+    "articleId": "60abcfedabcdef123456789",
+    "title": "Privacy and Data Protection",
+    "summery": "How we protect your data and privacy.",
+    "content": "This article explains our data protection policies.",
+    "linkPath": "/help/article/60abcfedabcdef123456789",
+    "fullLinkPath": "https://example.com/help/article/60abcfedabcdef123456789",
+    "topics": [
+      {
+        "topicId": "60abcfedfedcba0987654330",
+        "topicTitle": "Data Protection"
+      }
+    ],
+    "relatedArticles": [],
+    "roles": ["guest", "partner"],
+    "type": "rules",
+    "lastTopicId": "60abcfedfedcba0987654330"
+  }
+]

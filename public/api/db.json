@@ -1,0 +1,64 @@
+{
+  "privacy-policy-data": {
+    "title": "Privacy Policy",
+    "sub-title": "Updated on 10/09/2023",
+    "article": [
+      {
+        "id": 1,
+        "title": "ARTICLE 1. PREAMBLE",
+        "description": ""
+      },
+      {
+        "id": 2,
+        "title": "ARTICLE 2. DEFINITIONS",
+        "description": ""
+      },
+      {
+        "id": 3,
+        "title": "ARTICLE 3. PERSONAL DATA COLLECTED AND PROCESSED",
+        "description": ""
+      }
+    ],
+    "related-articles": [
+      {
+        "id": 1,
+        "hyper-text": "General Conditions of Use",
+        "route": "/legals/terms-and-conditions"
+      }
+    ]
+  },
+
+  "terms-and-conditions-data": {
+    "title": "Terms and Conditions",
+    "sub-title": "Updated on 10/09/2023",
+    "article": [
+      {
+        "id": 1,
+        "title": "ARTICLE 1. PREAMBLE",
+        "description": ""
+      },
+      {
+        "id": 2,
+        "title": "ARTICLE 2. DEFINITIONS",
+        "description": ""
+      },
+      {
+        "id": 3,
+        "title": "ARTICLE 3. PERSONAL DATA COLLECTED AND PROCESSED",
+        "description": ""
+      }
+    ],
+    "related-articles": [
+      {
+        "id": 1,
+        "hyper-text": "General Conditions of Use",
+        "route": "/legals/terms-and-conditions"
+      },
+      {
+        "id": 2,
+        "hyper-text": "Privacy Policy",
+        "route": "/legals/privacy"
+      }
+    ]
+  }
+}

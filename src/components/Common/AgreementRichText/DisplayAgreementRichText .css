@@ -1,0 +1,43 @@
+:root {
+  --indent-size: 10px;
+}
+
+.rich-text-container {
+  margin: 0;
+}
+
+.rich-text-container [class*='ql-indent-'] {
+  margin-left: calc(var(--indent-size) * var(--indent-level, 0));
+}
+
+.rich-text-container .ql-indent-1 {
+  --indent-level: 1;
+}
+.rich-text-container .ql-indent-2 {
+  --indent-level: 2;
+}
+.rich-text-container .ql-indent-3 {
+  --indent-level: 3;
+}
+.rich-text-container .ql-indent-4 {
+  --indent-level: 4;
+}
+.rich-text-container .ql-indent-5 {
+  --indent-level: 5;
+}
+.rich-text-container .ql-indent-6 {
+  --indent-level: 6;
+}
+.rich-text-container .ql-indent-7 {
+  --indent-level: 7;
+}
+.rich-text-container .ql-indent-8 {
+  --indent-level: 8;
+}
+
+.rich-text-container ol .ql-indent-1 {
+  list-style-type: lower-alpha;
+}
+.rich-text-container ol .ql-indent-2 {
+  list-style-type: lower-roman;
+}

@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/blog",
+      "destination": "https://blog.tashus.com"
+    },
+    {
+      "source": "/blog/:path*",
+      "destination": "https://blog.tashus.com/:path*/"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "name": "Md Mustafejur Rahman",
+    "date": "16 February 2026",
+    "rating": 5,
+    "review": "I rented a car from Tashus Car Rental and had a really smooth experience. The booking process was quick and easy, the car was clean and in excellent condition, and the pricing was very reasonable. The staff were friendly, professional, and helpful throughout the whole process. I would definitely recommend Tashus to anyone looking for reliable and hassle-free car hire in Sydney.",
+    "profilePhoto": "/google-reviews/reviewer-id-1/profile.png",
+    "vehiclePhoto": ""
+  },
+  {
+    "id": 2,
+    "name": "Aamir Saad Husayn",
+    "date": "8 February 2026",
+    "rating": 5,
+    "review": "Some amazing cars, lots of SUV.",
+    "profilePhoto": "/google-reviews/reviewer-id-2/profile.png",
+    "vehiclePhoto": ""
+  },
+  {
+    "id": 3,
+    "name": "AB Rider",
+    "date": "28 January 2026",
+    "rating": 5,
+    "review": "Tashus Car Rental provides reliable vehicles with clean, fresh interiors and a smooth rental experience. The staff are polite, helpful, and professional, making the whole process quick and stress-free. A great choice for comfortable and hassle-free car rental.",
+    "profilePhoto": "/google-reviews/reviewer-id-3/profile.png",
+    "vehiclePhoto": "/google-reviews/reviewer-id-3/vehicle.png"
+  },
+  {
+    "id": 4,
+    "name": "Md. Imran Hossain",
+    "date": "21 January 2026",
+    "rating": 5,
+    "review": "I rented a car from Tashus Car Rental and had a great experience. The booking process was smooth, the car was clean and well-maintained, and the service was professional. Highly recommended for anyone looking for a reliable car rental.",
+    "profilePhoto": "/google-reviews/reviewer-id-4/profile.png",
+    "vehiclePhoto": "/google-reviews/reviewer-id-4/vehicle.png"
+  },
+  {
+    "id": 5,
+    "name": "Obidulla Uddin",
+    "date": "11 December 2025",
+    "rating": 5,
+    "review": "Rented this wonderful van for a week to explore Sydney.Had an amazing time—super clean, well-maintained, and packed with great features.The service was spot on and the pricing was very reasonable.Highly recommend Tashus for anyone looking for a smooth and affordable ride!",
+    "profilePhoto": "",
+    "vehiclePhoto": "/google-reviews/reviewer-id-5/vehicle.png"
+  },
+  {
+    "id": 6,
+    "name": "Shaun Camreon",
+    "date": "5 June 2025",
+    "rating": 5,
+    "review": "Very easy to rent and convenient car and van rental. I rented a toyota haice van for 2 weeks. They gave me 30% discount on the total. The person who served was very helpful too. Highly recommended car rental.",
+    "profilePhoto": "",
+    "vehiclePhoto": "/google-reviews/reviewer-id-6/vehicle.png"
+  },
+  {
+    "id": 7,
+    "name": "Seyyda Fatima",
+    "date": "24 December 2025",
+    "rating": 5,
+    "review": "Rented a Mazda 6 from Tashu’s Car Rental. Booking was easy, the car was comfortable, and the price was very affordable. Highly recommended!.",
+    "profilePhoto": "/google-reviews/reviewer-id-7/profile.png",
+    "vehiclePhoto": "/google-reviews/reviewer-id-7/vehicle.png"
+  },
+  {
+    "id": 8,
+    "name": "Stephanie Azri",
+    "date": "14 December 2025",
+    "rating": 5,
+    "review": "5 stars for cleanliness! I picked up my rental and was happy to see everything inside was very clean and well-maintained. It made the whole experience much better. Good service and great cars.",
+    "profilePhoto": "",
+    "vehiclePhoto": "/google-reviews/reviewer-id-8/vehicle.png"
+  },
+  {
+    "id": 9,
+    "name": "Eren EZ",
+    "date": "10 May 2025",
+    "rating": 5,
+    "review": "I had an excellent experience with Tashus Car Hire. Tarek, the owner, was professional, friendly, and went above and beyond to make the process smooth and stress-free. The car was in perfect condition, clean, and reliable for my trip. Pricing was fair and transparent with no hidden surprises. Highly recommend Tashus Car Hire for anyone looking for quality vehicles and great customer service.",
+    "profilePhoto": "",
+    "vehiclePhoto": ""
+  },
+  {
+    "id": 10,
+    "name": "Daniel Lockwood",
+    "date": "2 February 2025",
+    "rating": 5,
+    "review": "Needed a car for the weekend, and Tashus delivered. The pickup and drop-off process was smooth, and the car handled perfectly. Couldn’t have asked for better service.",
+    "profilePhoto": "/google-reviews/reviewer-id-10/profile.png",
+    "vehiclePhoto": "/google-reviews/reviewer-id-10/vehicle.png"
+  },
+  {
+    "id": 11,
+    "name": "Radiosunshine 77",
+    "date": "28 April 2025",
+    "rating": 5,
+    "review": "Very responsive, pick up and return process convenient. Car is very roomy and easy to drive. Customer service is impeccable.",
+    "profilePhoto": "/google-reviews/reviewer-id-11/profile.png",
+    "vehiclePhoto": ""
+  },
+  {
+    "id": 12,
+    "name": "Joanne Walker",
+    "date": "16 May 2025",
+    "rating": 5,
+    "review": "I recently hired a Nissan X trail and highly recommend Tashus. Drama free rental company, very easy to extend your rental and very transparent with costs.Easy straight forward rentals.",
+    "profilePhoto": "",
+    "vehiclePhoto": ""
+  },
+  {
+    "id": 13,
+    "name": "Robyn Luteru",
+    "date": "12 May 2025",
+    "rating": 5,
+    "review": "They have everything you need to make your car rental experience exceptional.Best Rental Car Ever.",
+    "profilePhoto": "/google-reviews/reviewer-id-11/profile.png",
+    "vehiclePhoto": ""
+  }
+]
